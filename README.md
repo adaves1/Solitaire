@@ -1,7 +1,7 @@
 Solitaire
 =====================
 
-This is a bite-size Solitaire game for Windows 10.
+This is a bite-size Solitaire game for Windows 10 that can also be played on Windows Phone.
 
 ![Screenshot](/doc/screenshots/solitaire_2.png?raw=true)
 
