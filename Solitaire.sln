@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows 10
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solitaire", "Solitaire\Solitaire\Solitaire.csproj", "{581A46FD-9117-4BA9-BD88-D844E406649F}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SolitaireContent", "Solitaire\SolitaireContent\SolitaireContent.contentproj", "{7CDCFA6F-5C68-4766-8110-FDE99E6229E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows 10 = Debug|Windows 10
+		Release|Windows 10 = Release|Windows 10
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolutionOS
+		{581A46FD-9117-4BA9-BD88-D844E406649F}.Debug|Windows 10.ActiveCfg = Debug|Windows 10
+		{581A46FD-9117-4BA9-BD88-D844E406649F}.Debug|Windows 10.Build.0 = Debug|Windows 10
+		{581A46FD-9117-4BA9-BD88-D844E406649F}.Debug|Windows 10.Deploy.0 = Debug|Windows 10
+		{581A46FD-9117-4BA9-BD88-D844E406649F}.Release|Windows 10.ActiveCfg = Release|Windows 10
+		{581A46FD-9117-4BA9-BD88-D844E406649F}.Release|Windows 10.Build.0 = Release|Windows 10
+		{581A46FD-9117-4BA9-BD88-D844E406649F}.Release|Windows 10.Deploy.0 = Release|Windows 10
+		{7CDCFA6F-5C68-4766-8110-FDE99E6229E4}.Debug|Windows 10.ActiveCfg = Debug|Windows 10
+		{7CDCFA6F-5C68-4766-8110-FDE99E6229E4}.Release|Windows 10.ActiveCfg = Release|Windows 10
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
